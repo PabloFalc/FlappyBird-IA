@@ -17,4 +17,4 @@ O código foi feito apenas com o intuito de se aprofundar em IAs
 ## Referências
 
 - [Documentação NEAT-Python](https://neat-python.readthedocs.io/en/latest/)
-- [Canal HashtagProgramação](www.youtube.com/c/HashtagProgramação)
+- [Canal HashtagProgramação](https://youtube.com/channel/UCafFexaRoRylOKdzGBU6Pgg?si=wkxdwkM1-assN7M-)
