@@ -17,5 +17,4 @@ O código foi feito apenas com o intuito de se aprofundar em IAs
 ## Referências
 
 - [Documentação NEAT-Python](https://neat-python.readthedocs.io/en/latest/)
-- [NEAT: NeuroEvolution of Augmenting Topologies](http://www.cs.ucf.edu/~kstanley/neat.html)
 - [Canal HashtagProgramação](www.youtube.com/c/HashtagProgramação)
